@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <unistd.h>
+#include <stdio>
 
 /**
  * main - prints exactly "and that piece of art is useful"
